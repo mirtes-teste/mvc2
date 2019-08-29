@@ -1,11 +1,8 @@
 {
-	"name":"son/mvc",
-	"require" : {"php" : ">=5.3"},
-	"minimus-stability" : "alpha",
-	"authors" : [{"name" : "Renan Lima", "email" : "renan.lima@zarpo.com.br"}],
+	
 	"autoload" : {"psr-4" : {
 		"FrameworkAula\\" : "vendor/frameworkAULA/","App" : "app"
-	}},
-	"config" : {"bin-dir": "bin"}
+	}
+}
 
 }
